@@ -1,3 +1,7 @@
+![Tests](https://github.com/DmitriyRonMan/christmasTreeGenerator/actions/workflows/playwright.yml/badge.svg)
+![Node.js](https://img.shields.io/badge/Node.js-20.15-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)
+![Playwright](https://img.shields.io/badge/Playwright-1.58-purple)
 # Создать текстовый файл с ёлкой следующего вида (TypeScript + Playwright):
                     W
 
